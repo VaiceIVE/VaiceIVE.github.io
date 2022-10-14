@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e82d6f4.css",
+    "main.js": "/static/js/main.37d60546.js",
+    "static/media/about-us-bg.png": "/static/media/about-us-bg.d4c35d8eb030ce0ccd93.png",
+    "static/media/play-bg.png": "/static/media/play-bg.3ba4b0b1184f8c68d9f6.png",
+    "static/media/home-bg.png": "/static/media/home-bg.328789be2b35615c6c10.png",
+    "static/media/bonus-bg.png": "/static/media/bonus-bg.adad568de020bd915f0a.png",
+    "static/media/greetings.png": "/static/media/greetings.56ee1529cbb41ba8d053.png",
+    "static/media/logo.svg": "/static/media/logo.b1ac04ddaddc6ba3ab98edbc32441435.svg",
+    "static/media/Adera-logo.svg": "/static/media/Adera-logo.efb07b8af667fee3e839b1d69e5798d2.svg",
+    "static/media/activities.svg": "/static/media/activities.b370f9b508e607b36ce67720f4090695.svg",
+    "static/media/search.svg": "/static/media/search.89fa7feef73b045de5bfe5bb4553d895.svg",
+    "static/media/nft.svg": "/static/media/nft.797b62e2c5e4d9604724b9ea95a281ea.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.deb1200207c16ec9a0c2731d4ec25412.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.9cbb330b71b72ad01dacf8d606432e86.svg",
+    "static/media/shop.svg": "/static/media/shop.704c151f0a28551fec2f04ad90e06dff.svg",
+    "static/media/arrow.svg": "/static/media/arrow.5f99cd8acfeeccd6b5fbe7594cd607c5.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.b3a6aa948a88a88fe4abcd621a46726c.svg",
+    "main.2e82d6f4.css.map": "/static/css/main.2e82d6f4.css.map",
+    "main.37d60546.js.map": "/static/js/main.37d60546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e82d6f4.css",
+    "static/js/main.37d60546.js"
+  ]
+}
